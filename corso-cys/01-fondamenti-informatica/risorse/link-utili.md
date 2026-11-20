@@ -1,0 +1,1 @@
+# Link utili\n\n- https://help.ubuntu.com/\n- https://www.kernel.org/doc/man-pages/\n- https://www.gnu.org/software/bash/manual/\n- https://www.ietf.org/\n- https://www.nist.gov/cyberframework\n- https://owasp.org/\n

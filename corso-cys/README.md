@@ -1,0 +1,1 @@
+# 01 – Fondamenti di informatica\n\nConsultare le cartelle `teoria/`, `esercitazioni/` e `risorse/`.\n

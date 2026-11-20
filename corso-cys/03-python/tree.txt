@@ -1,0 +1,13 @@
+.
+├── 01-sintassi-e-variabili
+├── 02-operatori-e-condizioni
+├── 03-cicli-e-iterazioni
+├── 04-collezioni
+├── 05-funzioni
+├── 06-programmazione-oop
+├── 07-moduli-e-librerie
+├── 08-gestione-eccezioni
+├── esercitazioni
+└── tree.txt
+
+9 directories, 1 file
