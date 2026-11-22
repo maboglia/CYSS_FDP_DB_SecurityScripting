@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+prompt.md
+crea_struttura_repo.sh
+crea-repository.sh
+corso-cys/crea_modulo_01.py
+corso-cys/02-logica-e-algoritmi/teoria/pulisci_nomi.sh
