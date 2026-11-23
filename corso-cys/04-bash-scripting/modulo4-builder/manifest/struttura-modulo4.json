@@ -1,0 +1,64 @@
+{
+  "project": "04-bash-scripting",
+  "directories": [
+    "dispense/00-materiali-introduttivi",
+    "dispense/01-ambiente-e-shell",
+    "dispense/02-comandi-fondamentali",
+    "dispense/03-variabili-e-tipi",
+    "dispense/04-input-output-redirezioni",
+    "dispense/05-condizioni-e-selezione",
+    "dispense/06-cicli-e-iterazioni",
+    "dispense/07-funzioni-e-argomenti",
+    "dispense/08-file-e-directory",
+    "dispense/09-processi-e-permessi",
+    "dispense/10-debugging-ed-errori",
+    "dispense/11-automazione-sistemistica",
+    "dispense/12-bash-per-cybersecurity",
+    "dispense/13-esercitazioni",
+    "dispense/14-progetto-finale",
+    "codice/01-ambiente-e-shell",
+    "codice/02-comandi-fondamentali",
+    "codice/03-variabili-e-tipi",
+    "codice/04-input-output-redirezioni",
+    "codice/05-condizioni-e-selezione",
+    "codice/06-cicli-e-iterazioni",
+    "codice/07-funzioni-e-argomenti",
+    "codice/08-file-e-directory",
+    "codice/09-processi-e-permessi",
+    "codice/10-debugging-ed-errori",
+    "codice/11-automazione-sistemistica",
+    "codice/12-bash-per-cybersecurity",
+    "codice/13-esercitazioni",
+    "codice/14-progetto-finale"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "content": "# Modulo 4 – Bash Scripting\n\nRepository didattico del modulo Bash Scripting.\n\n- `dispense/`: schede teoriche in Markdown.\n- `codice/`: script Bash, esempi e laboratori.\n\nGli script vanno provati in directory di laboratorio con dati non importanti.\n\n## Esecuzione\n\n```bash\nchmod +x codice/percorso/script.sh\nbash codice/percorso/script.sh\n```\n\nConsultare le dispense in ordine numerico.\n"
+    },
+    {
+      "path": "dispense/00-materiali-introduttivi/00-obiettivi-e-percorso.md",
+      "content": "# Modulo 4 – Bash Scripting\n\n## Obiettivi\n- Utilizzare la shell Bash.\n- Scrivere script con variabili, condizioni, cicli e funzioni.\n- Gestire file, directory, processi e permessi.\n- Automatizzare attività sistemistiche e semplici controlli difensivi.\n\n## Prerequisiti\nConoscenze di base di Linux, terminale e filesystem.\n"
+    },
+    {
+      "path": "dispense/00-materiali-introduttivi/01-glossario-bash.md",
+      "content": "# Glossario Bash\n\n- **Shell**: interprete dei comandi.\n- **Bash**: Bourne Again SHell.\n- **Script**: file contenente comandi da eseguire.\n- **Shebang**: indicazione dell'interprete nella prima riga.\n- **Pipeline**: collegamento tra comandi con `|`.\n- **Exit status**: codice di esito di un comando.\n"
+    },
+    {
+      "path": "codice/01-ambiente-e-shell/01-primo-script.sh",
+      "content": "#!/usr/bin/env bash\n# Primo script del modulo\nprintf 'Ciao, Bash!\\n'\nprintf 'Directory corrente: %s\\n' \"$PWD\"\n"
+    },
+    {
+      "path": "codice/12-bash-per-cybersecurity/log-laboratorio.txt",
+      "content": "2026-11-20 09:00:00 INFO Avvio servizio\n2026-11-20 09:01:12 WARNING Tentativo non riuscito\n2026-11-20 09:02:03 ERROR Connessione rifiutata\n"
+    },
+    {
+      "path": "codice/13-esercitazioni/README.md",
+      "content": "# Esercitazioni\n\nInserire qui le tracce e gli svolgimenti degli esercizi progressivi.\n"
+    },
+    {
+      "path": "codice/14-progetto-finale/README.md",
+      "content": "# Progetto finale\n\nDescrivere qui requisiti, input, output, casi limite e verifiche del progetto.\n"
+    }
+  ]
+}
