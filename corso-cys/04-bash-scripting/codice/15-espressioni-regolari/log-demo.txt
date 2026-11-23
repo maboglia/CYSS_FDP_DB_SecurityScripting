@@ -1,0 +1,7 @@
+2026-11-20T08:31:10Z INFO  sshd: session opened for user anna from 192.0.2.10
+2026-11-20T08:32:44Z WARN  sshd: repeated authentication attempts from 198.51.100.23
+2026-11-20T08:33:02Z ERROR app: database connection failed
+2026-11-20T08:34:15Z INFO  app: request completed
+2026-11-20T08:35:20Z ERROR sshd: authentication failed for user test from 203.0.113.8
+invalid-date WARN sample: 999.1.2.3 is not a valid IPv4 address
+2026-11-20T08:37:00Z INFO  app: client 10.0.0.5 disconnected
